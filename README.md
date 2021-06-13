@@ -11,6 +11,7 @@ Documentation for the PlayStation Portable Archive.
 ## Preservation of source code
 
 - [PSP projects already hosted on GitHub](code-archive/other-projects.md) - they will not be rehosted in here.
+- [PSP Projects on code.google.com](code-archive/other-projects2.md) - 
 
 ## Preservation of binary files
 
